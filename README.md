@@ -1,18 +1,10 @@
 # Early-Years-Flu-Vaccine-Pilot
 
-A pilot project for early years flu vaccination.
+A pilot project for increasing uptake of flu vaccinations for 2-3 year olds.
 
 ## Overview
 
-This repository contains code and documentation for the Early-Years-Flu-Vaccine-Pilot project.
-
-## Getting Started
-
-Instructions for getting started with this project will be added here.
-
-## Contributing
-
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+This repository contains code for plotting some of the evaluation survey data from the Early-Years-Flu-Vaccine-Pilot project.
 
 ## License
 
